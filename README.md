@@ -16,5 +16,8 @@
 </p>
  
  
+ ### 📑 Utilitários
+
+- Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
  - Biblioteca Utilizada: **[mPDF](https://github.com/mpdf/mpdf)**
 
