@@ -21,3 +21,4 @@
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
  - Biblioteca Utilizada: **[mPDF](https://github.com/mpdf/mpdf)**
 
+Configurado para Funcionar o PDF apenas no PHP 7 
